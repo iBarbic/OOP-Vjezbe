@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1554129117 source:c:\users\ivanb\desktop\vjezba4\zad4\zad4.cpp
+	"zad4.h"
+	<cstdlib>
+	<math.h>
+	<time.h>
+
+1554129687 c:\users\ivanb\desktop\vjezba4\zad4\zad4.h
+
+1554129646 source:c:\users\ivanb\desktop\vjezba4\zad4\main.cpp
+	<iostream>
+	"zad4.h"
+	<vector>
+	<time.h>
+	<cstdlib>
+
+1554241616 source:c:\users\ivanb\onedrive\desktop\vjezba4\zad4\main.cpp
+	<iostream>
+	"tocka.h"
+	<vector>
+	<time.h>
+	<cstdlib>
+	"meta.h"
+	"oruzje.h"
+
+1554129687 c:\users\ivanb\onedrive\desktop\vjezba4\zad4\zad4.h
+
+1554241724 source:c:\users\ivanb\onedrive\desktop\vjezba4\zad4\meta.cpp
+	"meta.h"
+	<cstdlib>
+	<math.h>
+	"tocka.h"
+
+1554241699 c:\users\ivanb\onedrive\desktop\vjezba4\zad4\meta.h
+	<string>
+	"tocka.h"
+
+1554241420 c:\users\ivanb\onedrive\desktop\vjezba4\zad4\tocka.h
+
+1554241635 source:c:\users\ivanb\onedrive\desktop\vjezba4\zad4\oruzje.cpp
+	"oruzje.h"
+	<cstdlib>
+	<math.h>
+	"tocka.h"
+
+1554241616 c:\users\ivanb\onedrive\desktop\vjezba4\zad4\oruzje.h
+	"tocka.h"
+
+1554241432 source:c:\users\ivanb\onedrive\desktop\vjezba4\zad4\tocka.cpp
+	"tocka.h"
+	<cstdlib>
+	<math.h>
+
+1554241724 source:c:\users\ivanb\oop vjezbe\oop_vjezbe\vjezba4\zad4\meta.cpp
+	"meta.h"
+	<cstdlib>
+	<math.h>
+	"tocka.h"
+
+1554241699 c:\users\ivanb\oop vjezbe\oop_vjezbe\vjezba4\zad4\meta.h
+	<string>
+	"tocka.h"
+
+1554241420 c:\users\ivanb\oop vjezbe\oop_vjezbe\vjezba4\zad4\tocka.h
+
+1554241635 source:c:\users\ivanb\oop vjezbe\oop_vjezbe\vjezba4\zad4\oruzje.cpp
+	"oruzje.h"
+	<cstdlib>
+	<math.h>
+	"tocka.h"
+
+1554242412 c:\users\ivanb\oop vjezbe\oop_vjezbe\vjezba4\zad4\oruzje.h
+	"tocka.h"
+
+1554241432 source:c:\users\ivanb\oop vjezbe\oop_vjezbe\vjezba4\zad4\tocka.cpp
+	"tocka.h"
+	<cstdlib>
+	<math.h>
+
+1554242341 source:c:\users\ivanb\oop vjezbe\oop_vjezbe\vjezba4\zad4\main.cpp
+	<iostream>
+	"tocka.h"
+	<vector>
+	<time.h>
+	<cstdlib>
+	"meta.h"
+	"oruzje.h"
+

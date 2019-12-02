@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1558023561 source:d:\downloads\vjezba8\nova mapa\vjezba9\main.cpp
+	<iostream>
+	"zbroj.h"
+
+1558023516 source:d:\downloads\vjezba8\nova mapa\vjezba9\zbroj.cpp
+	"zbroj.h"
+
+1558023633 d:\downloads\vjezba8\nova mapa\vjezba9\zbroj.h
+	<stdlib.h>
+	<ctype.h>
+	<iostream>
+

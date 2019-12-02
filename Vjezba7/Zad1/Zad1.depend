@@ -1,0 +1,473 @@
+# depslib dependency file v1.0
+1554399231 source:c:\users\student\vjezba5\zad1\pomocna.cpp
+	"pomocna.h"
+
+1554399181 c:\users\student\vjezba5\zad1\pomocna.h
+
+1554399922 source:c:\users\student\vjezba5\zad1\food.cpp
+	"food.h"
+	<string>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+
+1554399783 c:\users\student\vjezba5\zad1\food.h
+	"pomocna.h"
+	<iostream>
+	<string.h>
+
+1554399534 source:c:\users\student\vjezba5\zad1\main.cpp
+	<iostream>
+
+1554903064 source:c:\users\ivanb\desktop\vjezba5\zad1\main.cpp
+	<iostream>
+	<ctime>
+	"food.h"
+	<vector>
+
+1554892229 source:c:\users\ivanb\desktop\vjezba5\zad1\pomocna.cpp
+	"pomocna.h"
+
+1554892252 c:\users\ivanb\desktop\vjezba5\zad1\pomocna.h
+
+1554902169 source:c:\users\ivanb\desktop\vjezba5\zad1\food.cpp
+	"food.h"
+	<string>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<iostream>
+	<stdio.h>
+	<algorithm>
+
+1554903097 c:\users\ivanb\desktop\vjezba5\zad1\food.h
+	"pomocna.h"
+	<iostream>
+	<string.h>
+
+1554975201 source:c:\users\ivanb\desktop\vjezba5napredak\zad1\main.cpp
+	<iostream>
+	<ctime>
+	"food.h"
+	<vector>
+
+1554975402 c:\users\ivanb\desktop\vjezba5napredak\zad1\food.h
+	"pomocna.h"
+	<iostream>
+	<string.h>
+
+1554975356 c:\users\ivanb\desktop\vjezba5napredak\zad1\pomocna.h
+
+1554975383 source:c:\users\ivanb\desktop\vjezba5napredak\zad1\pomocna.cpp
+	"pomocna.h"
+
+1554975390 source:c:\users\ivanb\desktop\vjezba5napredak\zad1\food.cpp
+	"food.h"
+	<string>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<iostream>
+	<stdio.h>
+	<algorithm>
+
+1556814067 source:d:\documents\vjezba5\zad1\food.cpp
+	"food.h"
+	<string>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<iostream>
+	<stdio.h>
+	<algorithm>
+
+1556812499 d:\documents\vjezba5\zad1\food.h
+	"pomocna.h"
+	<iostream>
+	<string.h>
+
+1554968156 d:\documents\vjezba5\zad1\pomocna.h
+
+1556814448 source:d:\documents\vjezba5\zad1\main.cpp
+	<iostream>
+	<ctime>
+	"food.h"
+	<vector>
+
+1554968182 source:d:\documents\vjezba5\zad1\pomocna.cpp
+	"pomocna.h"
+
+1556815277 source:d:\documents\vjezba5\zad1\hummus.cpp
+	"hummus.h"
+
+1556811939 d:\documents\vjezba5\zad1\hummus.h
+	"Vege.h"
+
+1556815271 d:\documents\vjezba5\zad1\vege.h
+	"food.h"
+
+1556814976 source:d:\documents\vjezba5\zad1\krempita.cpp
+	"krempita.h"
+
+1556812007 d:\documents\vjezba5\zad1\krempita.h
+	"kolaci.h"
+
+1556814934 d:\documents\vjezba5\zad1\kolaci.h
+	"food.h"
+
+1556814990 source:d:\documents\vjezba5\zad1\madjarica.cpp
+	"madjarica.h"
+
+1556812019 d:\documents\vjezba5\zad1\madjarica.h
+	"kolaci.h"
+
+1556815826 source:d:\documents\vjezba5\zad1\meso.cpp
+	"meso.h"
+
+1556812032 d:\documents\vjezba5\zad1\meso.h
+	"mesni.h"
+
+1556815811 d:\documents\vjezba5\zad1\mesni.h
+	"food.h"
+
+1556815280 source:d:\documents\vjezba5\zad1\riza.cpp
+	"riza.h"
+
+1556812070 d:\documents\vjezba5\zad1\riza.h
+	"vege.h"
+
+1556815824 source:d:\documents\vjezba5\zad1\prsut.cpp
+	"prsut.h"
+
+1556812086 d:\documents\vjezba5\zad1\prsut.h
+	"mesni.h"
+
+1556815829 source:d:\documents\vjezba5\zad1\sunka.cpp
+	"sunka.h"
+
+1556812114 d:\documents\vjezba5\zad1\sunka.h
+	"mesni.h"
+
+1556815275 source:d:\documents\vjezba5\zad1\tofu.cpp
+	"tofu.h"
+
+1556812125 d:\documents\vjezba5\zad1\tofu.h
+	"vege.h"
+
+1556814979 source:d:\documents\vjezba5\zad1\torta.cpp
+	"torta.h"
+
+1556812144 d:\documents\vjezba5\zad1\torta.h
+	"kolaci.h"
+
+1556816036 source:d:\documents\vjezba5\zad1\jogurt.cpp
+	"jogurt.h"
+
+1556816022 d:\documents\vjezba5\zad1\jogurt.h
+	"mlijecni.h"
+
+1556815818 d:\documents\vjezba5\zad1\mlijecni.h
+	"food.h"
+
+1556815367 source:d:\documents\vjezba5\zad1\kolaci.cpp
+	"kolaci.h"
+
+1556815811 source:d:\documents\vjezba5\zad1\mesni.cpp
+	"mesni.h"
+
+1556816098 source:d:\documents\vjezba5\zad1\mlijeko.cpp
+	"mlijeko.h"
+
+1556816103 d:\documents\vjezba5\zad1\mlijeko.h
+	"mlijecni.h"
+
+1556815835 source:d:\documents\vjezba5\zad1\sir.cpp
+	"sir.h"
+
+1556812098 d:\documents\vjezba5\zad1\sir.h
+	"mlijecni.h"
+
+1556815811 source:d:\documents\vjezba5\zad1\mlijecni.cpp
+	"mlijecni.h"
+
+1556815256 source:d:\documents\vjezba5\zad1\vege.cpp
+	"vege.h"
+
+1554975383 source:c:\users\ivanb\desktop\vjezba7\zad1\pomocna.cpp
+	"pomocna.h"
+
+1554975356 c:\users\ivanb\desktop\vjezba7\zad1\pomocna.h
+
+1557346307 source:c:\users\ivanb\desktop\vjezba7\zad1\food.cpp
+	"food.h"
+	<string>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<iostream>
+	<stdio.h>
+	<algorithm>
+
+1557351241 c:\users\ivanb\desktop\vjezba7\zad1\food.h
+	"pomocna.h"
+	<iostream>
+	<string.h>
+
+1557346864 source:c:\users\ivanb\desktop\vjezba7\zad1\hummus.cpp
+	"hummus.h"
+
+1557350109 c:\users\ivanb\desktop\vjezba7\zad1\hummus.h
+	"Vege.h"
+
+1557396713 c:\users\ivanb\desktop\vjezba7\zad1\vege.h
+	"food.h"
+
+1557347041 source:c:\users\ivanb\desktop\vjezba7\zad1\jogurt.cpp
+	"jogurt.h"
+
+1557350117 c:\users\ivanb\desktop\vjezba7\zad1\jogurt.h
+	"mlijecni.h"
+
+1557349528 c:\users\ivanb\desktop\vjezba7\zad1\mlijecni.h
+	"food.h"
+
+1557347041 source:c:\users\ivanb\desktop\vjezba7\zad1\kolaci.cpp
+	"kolaci.h"
+
+1557349528 c:\users\ivanb\desktop\vjezba7\zad1\kolaci.h
+	"food.h"
+
+1557347724 source:c:\users\ivanb\desktop\vjezba7\zad1\krempita.cpp
+	"krempita.h"
+
+1557350126 c:\users\ivanb\desktop\vjezba7\zad1\krempita.h
+	"kolaci.h"
+
+1557347758 source:c:\users\ivanb\desktop\vjezba7\zad1\madjarica.cpp
+	"madjarica.h"
+
+1557350144 c:\users\ivanb\desktop\vjezba7\zad1\madjarica.h
+	"kolaci.h"
+
+1557351257 source:c:\users\ivanb\desktop\vjezba7\zad1\main.cpp
+	<iostream>
+	<ctime>
+	"food.h"
+	<vector>
+	"prsut.h"
+	"mesni.h"
+	"meso.h"
+	"sunka.h"
+	"mlijecni.h"
+	"jogurt.h"
+	"mlijeko.h"
+	"sir.h"
+	"vege.h"
+	"hummus.h"
+	"riza.h"
+	"tofu.h"
+	"kolaci.h"
+	"krempita.h"
+	"madjarica.h"
+	"torta.h"
+
+1557347856 source:c:\users\ivanb\desktop\vjezba7\zad1\mesni.cpp
+	"mesni.h"
+
+1557351241 c:\users\ivanb\desktop\vjezba7\zad1\mesni.h
+	"food.h"
+
+1557347951 source:c:\users\ivanb\desktop\vjezba7\zad1\mlijecni.cpp
+	"mlijecni.h"
+
+1557348052 source:c:\users\ivanb\desktop\vjezba7\zad1\mlijeko.cpp
+	"mlijeko.h"
+
+1557350137 c:\users\ivanb\desktop\vjezba7\zad1\mlijeko.h
+	"mlijecni.h"
+
+1557396299 source:c:\users\ivanb\desktop\vjezba7\zad1\prsut.cpp
+	"prsut.h"
+
+1557396299 c:\users\ivanb\desktop\vjezba7\zad1\prsut.h
+	"mesni.h"
+
+1557396387 source:c:\users\ivanb\desktop\vjezba7\zad1\riza.cpp
+	"riza.h"
+
+1557396387 c:\users\ivanb\desktop\vjezba7\zad1\riza.h
+	"vege.h"
+
+1557396424 source:c:\users\ivanb\desktop\vjezba7\zad1\sir.cpp
+	"sir.h"
+
+1557396450 c:\users\ivanb\desktop\vjezba7\zad1\sir.h
+	"mlijecni.h"
+
+1557396492 source:c:\users\ivanb\desktop\vjezba7\zad1\sunka.cpp
+	"sunka.h"
+
+1557396492 c:\users\ivanb\desktop\vjezba7\zad1\sunka.h
+	"mesni.h"
+
+1557396544 source:c:\users\ivanb\desktop\vjezba7\zad1\tofu.cpp
+	"tofu.h"
+
+1557396544 c:\users\ivanb\desktop\vjezba7\zad1\tofu.h
+	"vege.h"
+
+1557396593 source:c:\users\ivanb\desktop\vjezba7\zad1\torta.cpp
+	"torta.h"
+
+1557396593 c:\users\ivanb\desktop\vjezba7\zad1\torta.h
+	"kolaci.h"
+
+1557396676 source:c:\users\ivanb\desktop\vjezba7\zad1\vege.cpp
+	"vege.h"
+
+1557347856 source:c:\users\ivanb\desktop\vjezba7\zad1\meso.cpp
+	"meso.h"
+
+1557396188 c:\users\ivanb\desktop\vjezba7\zad1\meso.h
+	"mesni.h"
+	<iostream>
+
+1557346307 source:c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\food.cpp
+	"food.h"
+	<string>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<iostream>
+	<stdio.h>
+	<algorithm>
+
+1557351241 c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\food.h
+	"pomocna.h"
+	<iostream>
+	<string.h>
+
+1554975356 c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\pomocna.h
+
+1557346864 source:c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\hummus.cpp
+	"hummus.h"
+
+1557407008 c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\hummus.h
+	"Vege.h"
+
+1557407008 c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\vege.h
+	"food.h"
+
+1557347041 source:c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\jogurt.cpp
+	"jogurt.h"
+
+1557406977 c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\jogurt.h
+	"mlijecni.h"
+
+1557406962 c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\mlijecni.h
+	"food.h"
+
+1557347041 source:c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\kolaci.cpp
+	"kolaci.h"
+
+1557407051 c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\kolaci.h
+	"food.h"
+
+1557347724 source:c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\krempita.cpp
+	"krempita.h"
+
+1557407051 c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\krempita.h
+	"kolaci.h"
+
+1557347758 source:c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\madjarica.cpp
+	"madjarica.h"
+
+1557407051 c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\madjarica.h
+	"kolaci.h"
+
+1557351257 source:c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\main.cpp
+	<iostream>
+	<ctime>
+	"food.h"
+	<vector>
+	"prsut.h"
+	"mesni.h"
+	"meso.h"
+	"sunka.h"
+	"mlijecni.h"
+	"jogurt.h"
+	"mlijeko.h"
+	"sir.h"
+	"vege.h"
+	"hummus.h"
+	"riza.h"
+	"tofu.h"
+	"kolaci.h"
+	"krempita.h"
+	"madjarica.h"
+	"torta.h"
+
+1557406923 c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\prsut.h
+	"mesni.h"
+
+1557406875 c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\mesni.h
+	"food.h"
+
+1557406875 c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\meso.h
+	"mesni.h"
+	<iostream>
+
+1557406912 c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\sunka.h
+	"mesni.h"
+
+1557406962 c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\mlijeko.h
+	"mlijecni.h"
+
+1557406977 c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\sir.h
+	"mlijecni.h"
+
+1557407008 c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\riza.h
+	"vege.h"
+
+1557407008 c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\tofu.h
+	"vege.h"
+
+1557407051 c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\torta.h
+	"kolaci.h"
+
+1557347856 source:c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\mesni.cpp
+	"mesni.h"
+
+1557347856 source:c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\meso.cpp
+	"meso.h"
+
+1557347951 source:c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\mlijecni.cpp
+	"mlijecni.h"
+
+1557348052 source:c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\mlijeko.cpp
+	"mlijeko.h"
+
+1554975383 source:c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\pomocna.cpp
+	"pomocna.h"
+
+1557396299 source:c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\prsut.cpp
+	"prsut.h"
+
+1557396387 source:c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\riza.cpp
+	"riza.h"
+
+1557396424 source:c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\sir.cpp
+	"sir.h"
+
+1557396492 source:c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\sunka.cpp
+	"sunka.h"
+
+1557396544 source:c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\tofu.cpp
+	"tofu.h"
+
+1557396593 source:c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\torta.cpp
+	"torta.h"
+
+1557396676 source:c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba7\zad1\vege.cpp
+	"vege.h"
+

@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1553795448 source:c:\users\student\source\zad1\main.cpp
+	<iostream>
+	"tocka.h"
+
+1553795578 c:\users\student\source\zad1\tocka.h
+
+1553795482 source:c:\users\student\source\zad1\tocka.cpp
+	"tocka.h"
+	<cstdlib>
+	<math.h>
+
+1553800167 source:c:\users\ivanb\desktop\vjezba4\zad1\main.cpp
+	<iostream>
+	"tocka.h"
+
+1554126443 c:\users\ivanb\desktop\vjezba4\zad1\tocka.h
+
+1554126432 source:c:\users\ivanb\desktop\vjezba4\zad1\tocka.cpp
+	"tocka.h"
+	<cstdlib>
+	<math.h>
+

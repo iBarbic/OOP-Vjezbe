@@ -1,0 +1,138 @@
+# depslib dependency file v1.0
+1557420417 source:d:\downloads\vjezba7\zad\vjezba8\main.cpp
+	<iostream>
+	<fstream>
+
+1557415871 source:d:\downloads\vjezba7\zad\vjezba8\videogames.cpp
+	"videogames.h"
+
+1557417398 d:\downloads\vjezba7\zad\vjezba8\videogames.h
+	<iostream>
+	<string>
+	<vector>
+
+1557417535 source:d:\downloads\vjezba7\zad\vjezba8\action.cpp
+	"action.h"
+
+1557419685 d:\downloads\vjezba7\zad\vjezba8\action.h
+	"videogames.h"
+
+1557417751 source:d:\downloads\vjezba7\zad\vjezba8\rpg.cpp
+	"rpg.h"
+
+1557417887 d:\downloads\vjezba7\zad\vjezba8\rpg.h
+	"videogames.h"
+
+1557416157 source:d:\downloads\vjezba7\zad\vjezba8\openworld.cpp
+	"openworld.h"
+
+1557419642 d:\downloads\vjezba7\zad\vjezba8\openworld.h
+	"videogames.h"
+
+1557419961 source:d:\downloads\vjezba7\zad\vjezba8\godofwar.cpp
+	"godofwar.h"
+
+1557419961 d:\downloads\vjezba7\zad\vjezba8\godofwar.h
+	"action.h"
+
+1557418591 source:d:\downloads\vjezba7\zad\vjezba8\lastofus.cpp
+	"lastofus.h"
+
+1557418487 d:\downloads\vjezba7\zad\vjezba8\lastofus.h
+	"action.h"
+
+1557418591 source:d:\downloads\vjezba7\zad\vjezba8\darksouls.cpp
+	"darksouls.h"
+
+1557418487 d:\downloads\vjezba7\zad\vjezba8\darksouls.h
+	"rpg.h"
+
+1557418591 source:d:\downloads\vjezba7\zad\vjezba8\fallout4.cpp
+	"fallout4.h"
+
+1557418487 d:\downloads\vjezba7\zad\vjezba8\fallout4.h
+	"rpg.h"
+
+1557418003 source:d:\downloads\vjezba7\zad\vjezba8\whitcher3.cpp
+	"whitcher3.h"
+
+1557418366 d:\downloads\vjezba7\zad\vjezba8\whitcher3.h
+	"rpg.h"
+	"openworld.h"
+
+1557677536 source:c:\users\ivanb\desktop\vjezba8\action.cpp
+	"action.h"
+
+1557866476 c:\users\ivanb\desktop\vjezba8\action.h
+	"videogames.h"
+
+1557866410 c:\users\ivanb\desktop\vjezba8\videogames.h
+	<iostream>
+	<string>
+	<vector>
+
+1557676860 source:c:\users\ivanb\desktop\vjezba8\darksouls.cpp
+	"darksouls.h"
+
+1557866294 c:\users\ivanb\desktop\vjezba8\darksouls.h
+	"rpg.h"
+
+1558008869 c:\users\ivanb\desktop\vjezba8\rpg.h
+	"videogames.h"
+
+1557676349 source:c:\users\ivanb\desktop\vjezba8\fallout4.cpp
+	"fallout4.h"
+
+1557866294 c:\users\ivanb\desktop\vjezba8\fallout4.h
+	"rpg.h"
+
+1557676349 source:c:\users\ivanb\desktop\vjezba8\godofwar.cpp
+	"godofwar.h"
+
+1557866294 c:\users\ivanb\desktop\vjezba8\godofwar.h
+	"action.h"
+
+1557676349 source:c:\users\ivanb\desktop\vjezba8\lastofus.cpp
+	"lastofus.h"
+
+1557866294 c:\users\ivanb\desktop\vjezba8\lastofus.h
+	"action.h"
+
+1557866343 source:c:\users\ivanb\desktop\vjezba8\openworld.cpp
+	"openworld.h"
+
+1558008869 c:\users\ivanb\desktop\vjezba8\openworld.h
+	"videogames.h"
+
+1557866215 source:c:\users\ivanb\desktop\vjezba8\rpg.cpp
+	"rpg.h"
+
+1557420818 source:c:\users\ivanb\desktop\vjezba8\videogames.cpp
+	"videogames.h"
+
+1557675690 source:c:\users\ivanb\desktop\vjezba8\whitcher3.cpp
+	"whitcher3.h"
+
+1557866410 c:\users\ivanb\desktop\vjezba8\whitcher3.h
+	"rpg.h"
+	"openworld.h"
+
+1557866215 source:c:\users\ivanb\desktop\vjezba8\main.cpp
+	<iostream>
+	<fstream>
+	"videogames.h"
+	"action.h"
+	"godofwar.h"
+	<sstream>
+	"whitcher3.h"
+	"darksouls.h"
+	"fallout4.h"
+	"lastofus.h"
+	"counter.h"
+
+1557678652 source:c:\users\ivanb\desktop\vjezba8\counter.cpp
+	"counter.h"
+
+1557866215 c:\users\ivanb\desktop\vjezba8\counter.h
+	"videogames.h"
+

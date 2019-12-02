@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1514144174 source:c:\users\ivanb\desktop\vjezba4\zad3\main.cpp
+	<iostream>
+
+1554123411 source:c:\users\ivanb\desktop\vjezba4\zad3\meta.cpp
+	"meta.h"
+	<cstdlib>
+	<math.h>
+
+1554123433 c:\users\ivanb\desktop\vjezba4\zad3\meta.h
+	<string>
+
+1554123443 source:c:\users\ivanb\onedrive\desktop\vjezba4\zad3\main.cpp
+	<iostream>
+	"meta.h"
+
+1554240723 c:\users\ivanb\onedrive\desktop\vjezba4\zad3\meta.h
+	<string>
+	"tocka.h"
+
+1554240530 source:c:\users\ivanb\onedrive\desktop\vjezba4\zad3\tocka.cpp
+	"tocka.h"
+	<cstdlib>
+	<math.h>
+
+1554126443 c:\users\ivanb\onedrive\desktop\vjezba4\zad3\tocka.h
+
+1554240702 source:c:\users\ivanb\onedrive\desktop\vjezba4\zad3\meta.cpp
+	"meta.h"
+	<cstdlib>
+	<math.h>
+	"tocka.h"
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553357553 source:c:\users\ivanb\desktop\vjezba 3\zad3\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+

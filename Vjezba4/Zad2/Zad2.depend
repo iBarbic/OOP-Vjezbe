@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1554120662 source:c:\users\ivanb\desktop\vjezba4\zad2\main.cpp
+	<iostream>
+	"oruzje.h"
+	"../Zad1/tocka.h"
+
+1554120988 source:c:\users\ivanb\desktop\vjezba4\zad2\oruzje.cpp
+	"oruzje.h"
+	<cstdlib>
+	<math.h>
+
+1554120988 c:\users\ivanb\desktop\vjezba4\zad2\oruzje.h
+
+1553800163 c:\users\ivanb\desktop\vjezba4\zad1\tocka.h
+
+1554240393 source:c:\users\ivanb\onedrive\desktop\vjezba4\zad2\main.cpp
+	<iostream>
+	"oruzje.h"
+	"tocka.h"
+
+1554240172 c:\users\ivanb\onedrive\desktop\vjezba4\zad2\oruzje.h
+	"tocka.h"
+
+1554126443 c:\users\ivanb\onedrive\desktop\vjezba4\zad2\tocka.h
+
+1554240231 source:c:\users\ivanb\onedrive\desktop\vjezba4\zad2\oruzje.cpp
+	"oruzje.h"
+	<cstdlib>
+	<math.h>
+	"tocka.h"
+
+1554126432 source:c:\users\ivanb\onedrive\desktop\vjezba4\zad2\tocka.cpp
+	"tocka.h"
+	<cstdlib>
+	<math.h>
+

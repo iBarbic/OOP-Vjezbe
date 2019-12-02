@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1553616786 source:c:\users\ivanb\desktop\vjezba 3\zad6 drugi\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+

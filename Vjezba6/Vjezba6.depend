@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1555001695 source:c:\users\student\source\vjezba6\main.cpp
+	<iostream>
+	"vec3.h"
+
+1555001651 source:c:\users\student\source\vjezba6\vec3.cpp
+	"vec3.h"
+
+1555001800 c:\users\student\source\vjezba6\vec3.h
+	<iostream>
+
+1555331943 source:c:\users\ivanb\desktop\vjezba6\vec3.cpp
+	"vec3.h"
+	<math.h>
+
+1555331943 c:\users\ivanb\desktop\vjezba6\vec3.h
+	<iostream>
+
+1555329744 source:c:\users\ivanb\desktop\vjezba6\main.cpp
+	<iostream>
+	"vec3.h"
+

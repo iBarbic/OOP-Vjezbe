@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1553354295 source:c:\users\ivanb\desktop\vjezba 2\zad1\main.cpp
+	<iostream>
+	"funkcije.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<algorithm>
+
+1553354733 c:\users\ivanb\desktop\vjezba 2\zad1\funkcije.h
+	<vector>
+
+1553354740 source:c:\users\ivanb\desktop\vjezba 2\zad1\funkcije.cpp
+	<iostream>
+	"funkcije.h"
+	<iostream>
+	<vector>
+	<cstdlib>
+	<algorithm>
+

@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1554399231 source:c:\users\student\vjezba5\zad1\pomocna.cpp
+	"pomocna.h"
+
+1554399181 c:\users\student\vjezba5\zad1\pomocna.h
+
+1554399922 source:c:\users\student\vjezba5\zad1\food.cpp
+	"food.h"
+	<string>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+
+1554399783 c:\users\student\vjezba5\zad1\food.h
+	"pomocna.h"
+	<iostream>
+	<string.h>
+
+1554399534 source:c:\users\student\vjezba5\zad1\main.cpp
+	<iostream>
+
+1554903064 source:c:\users\ivanb\desktop\vjezba5\zad1\main.cpp
+	<iostream>
+	<ctime>
+	"food.h"
+	<vector>
+
+1554892229 source:c:\users\ivanb\desktop\vjezba5\zad1\pomocna.cpp
+	"pomocna.h"
+
+1554892252 c:\users\ivanb\desktop\vjezba5\zad1\pomocna.h
+
+1554902169 source:c:\users\ivanb\desktop\vjezba5\zad1\food.cpp
+	"food.h"
+	<string>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<iostream>
+	<stdio.h>
+	<algorithm>
+
+1554903097 c:\users\ivanb\desktop\vjezba5\zad1\food.h
+	"pomocna.h"
+	<iostream>
+	<string.h>
+
+1554975201 source:c:\users\ivanb\desktop\vjezba5napredak\zad1\main.cpp
+	<iostream>
+	<ctime>
+	"food.h"
+	<vector>
+
+1554975402 c:\users\ivanb\desktop\vjezba5napredak\zad1\food.h
+	"pomocna.h"
+	<iostream>
+	<string.h>
+
+1554975356 c:\users\ivanb\desktop\vjezba5napredak\zad1\pomocna.h
+
+1554975383 source:c:\users\ivanb\desktop\vjezba5napredak\zad1\pomocna.cpp
+	"pomocna.h"
+
+1554975390 source:c:\users\ivanb\desktop\vjezba5napredak\zad1\food.cpp
+	"food.h"
+	<string>
+	<cstdio>
+	<stdlib.h>
+	<ctime>
+	<iostream>
+	<stdio.h>
+	<algorithm>
+

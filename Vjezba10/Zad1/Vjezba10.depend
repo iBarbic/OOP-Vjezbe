@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1559235849 source:d:\downloads\vjezba8\nova mapa\vjezba10\main.cpp
+	<iostream>
+	<exception>
+
+1559398455 source:c:\users\ivanb\desktop\vjezba10\main.cpp
+	<iostream>
+	<exception>
+	<fstream>
+	<ctime>
+
+1559398455 source:c:\users\ivanb\objekto orijentirano programiranje\vjezbe\vjezbe\vjezba10\zad1\main.cpp
+	<iostream>
+	<exception>
+	<fstream>
+	<ctime>
+
